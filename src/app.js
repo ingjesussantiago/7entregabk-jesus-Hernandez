@@ -1,5 +1,8 @@
 import express from "express"
-import { __dirname } from "./util.js";
+import { __dirname } from "./util.js"
+import managerProductoMongo from "./daos/managerProductoMongo.js"
+import "./db/dbConfig.js"
+
 
 const app = express()
 
