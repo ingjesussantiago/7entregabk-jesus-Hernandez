@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": " camisa urbana",
+        "descripcion": "tela de algodon al 100%",
+        "imagen": "no disponible",
+        "precio": "50",
+        "stock": "20",
+        "dni":"001"
+    },
+    {
+        "nombre": "pantalon",
+        "descripcion": "tela de algodon al 100%",
+        "imagen": "no disponible",
+        "precio": "50",
+        "stock": "20",
+        "dni":"002"
+    },
+    {
+        "nombre": "short",
+        "descripcion": "tela de algodon al 100%",
+        "imagen": "no disponible",
+        "precio": "50",
+        "stock": "20",
+        "dni":"003"
+    }
+]
